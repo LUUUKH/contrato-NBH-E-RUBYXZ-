@@ -1,8 +1,4 @@
 # contrato-NBH-&-RUBYXZ-
-Claro, aqui está um contrato básico em Solidity para estabelecer os direitos autorais sobre uma tecnologia em nome de Lucas Januário do Nascimento:
-
-Claro, aqui está o contrato atualizado com o seu nome, Lucas Januário do Nascimento, como o proprietário majoritário em todas as cláusulas:
-
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
