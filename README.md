@@ -1,4 +1,4 @@
-# contrato-NBH-E-RUBYXZ-
+# contrato-NBH-&-RUBYXZ-
 Claro, aqui está um contrato básico em Solidity para estabelecer os direitos autorais sobre uma tecnologia em nome de Lucas Januário do Nascimento:
 
 ```solidity
