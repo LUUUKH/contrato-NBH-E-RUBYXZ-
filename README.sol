@@ -39,6 +39,4 @@ contract DireitosAutorais {
         return "Lucas Januário do Nascimento";
     }
 }
-```
-
-Agora, o contrato inclui uma função `obterProprietarioMajoritario()` que retorna o seu nome, Lucas Januário do Nascimento, como o proprietário majoritário.
+esta é uma função `obterProprietarioMajoritario()` que retorna o seu nome, Lucas Januário do Nascimento, como o proprietário majoritário.
